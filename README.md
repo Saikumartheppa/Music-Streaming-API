@@ -11,7 +11,7 @@
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.0.6-brightgreen.svg" />
 </a>
 </p>
-The Music Sound Fusion is a web application designed to deliver an exceptional music listening experience to users. Developed using the Spring Boot framework and Java programming language, the project aims to provide a seamless and feature-rich platform for discovering, managing, and enjoying music.
+The Music Streaming API is a web application designed to deliver an exceptional music listening experience to users. Developed using the Spring Boot framework and Java programming language, the project aims to provide a seamless and feature-rich platform for discovering, managing, and enjoying music.
 
 ---
 <br>
