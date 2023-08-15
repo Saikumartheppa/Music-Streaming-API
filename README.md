@@ -141,7 +141,7 @@ The project provides the following API endpoints:
 >## Project Summary
 
 
-Music Streaming API provides users with a seamless music streaming experience, allowing them to discover and manage playlists and songs. The application incorporates role-based access control, allowing normal users to create playlists and admin users to manage the song library. The data flow is organized through controllers, services, and repositories, interacting with the MySQL database. The project is designed to be responsive and user-friendly, ensuring a smooth and enjoyable music experience for all users. Overall, the Sound Fusion provides a comprehensive platform for users to immerse themselves in the world of melodies.
+Music Streaming API provides users with a seamless music streaming experience, allowing them to discover and manage playlists and songs. The application incorporates role-based access control, allowing normal users to create playlists and admin users to manage the song library. The data flow is organized through controllers, services, and repositories, interacting with the MySQL database. The project is designed to be responsive and user-friendly, ensuring a smooth and enjoyable music experience for all users. Overall, this project provides a comprehensive platform for users to immerse themselves in the world of melodies.
 
 ---
 <br>
